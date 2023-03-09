@@ -1,0 +1,48 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 549"
+author: "Jezella Peraza<br>jezper@uw.edu"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+## About me | Personal
+
+- I was born in California, USA.
+
+> - My favorite food is tacos!
+
+> - My favorite animals are sea turtles and cows.
+
+## About me | Academic
+
+- I attended California State University, Monterey Bay.
+
+> - I majored in Marine Science.
+
+# Data science
+
+## Course topics | 3 things I enjoyed learning about
+
+1. I really enjoyed getting familiar with GitHub overall. It was neat to learn the ins and outs of this unique and useful tool for research.
+
+2. I enjoyed learning more about R Markdown and how to make reports and presentations within markdown. I do want to write my next paper using this format.
+
+3. I enjoyed getting to know a new program called PostgreSQL. SQL is a unique tool to use when organizing and constructing databases. 
+
+## Course topics | 3 things I’d like to learn more about
+
+1. I want to learn more about Shiny, I think the two day class period was neat but I would like to try to make my own app. 
+
+2. I want to learn more about how to link GitHub and Python. I have not tried yet, but I'd imagine it might be relatively similar (I think). As someone who is using Python for their second chapter, it could be useful to learn how to use GitHub with different programs, or at least get an introduction on how to do so.
+
+3. I want to learn more about different career paths in the environmental sciences who utilize GitHub outside of academia and affiliated governmental agencies. 
+
+## {data-background=Peraza_CSUMB_Grad.jpg data-background-size=contain background-position=center}
+
+
